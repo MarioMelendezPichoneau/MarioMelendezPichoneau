@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario Melendez Pichoneau</h1>
-<h3 align="center">A passionate software developer from Dominic Republic</h3>
+<h3 align="center">A passionate software developer | QA Engineer | from Dominic Republic</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently focusing on **Software Quality Assurance and Test Automation**
 
-- 💬 Ask me about **Angular, .Net, Java, Javascript, html, css, SQL**
+- 💬 Ask me about **.NET, C#, Angular, SQL,Postman, Playwright, QA, API Testing, and Test Automation**
 
 - 📫 How to reach me **melendezmario780@gmail.com**
 
