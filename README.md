@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Melendez Pichoneau</h1>
-<h3 align="center">A passionate software developer | QA Engineer | from Dominic Republic</h3>
+<h3 align="center">A passionate software developer | QA Engineer from Dominic Republic</h3>
 
 - 🌱 I’m currently focusing on **Software Quality Assurance and Test Automation**
 
